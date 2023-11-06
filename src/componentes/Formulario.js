@@ -8,7 +8,7 @@ function Formulario(props) {
 
   const manejarCambio = e => {
    setInput(e.target.value);
-  }
+  };
 
   const manejarEnvio = e => {
     e.preventDefault();

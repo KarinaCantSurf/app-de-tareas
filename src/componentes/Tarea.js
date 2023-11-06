@@ -1,4 +1,3 @@
-import React from 'react';
 import '../hojas-de-estilo/Tarea.css';
 import { AiOutlineCloseCircle } from "react-icons/ai";
 
